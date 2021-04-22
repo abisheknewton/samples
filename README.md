@@ -13,4 +13,20 @@ The 5 webpages are
         The image generator contains two button Generate and Remove. When you click on the Generate button it will display the image you have linked. The image generated will be equivalent to the number of times you have clicked the Generate Button. Then using the remove button you can remove the image one by one.
         
 #color button generator:
-      
+        The 
+        
+#Rock Paper Scissor game:
+        The Rock Paper Scissor Game has three image "Rock", "Paper" and "Scissor" image. Once you click on anyone of the image the computer will automatically generate an image from the three image choice. If you win a "You Win" message will be generated likewise if you lose a "You lose" message will be displayed and if you tie the "You tied" message will be displayed.      
+
+#Dice Game:
+      This game has two dice for two players. When the game is started, those two dice changes its value to some random value between 1 and 6. And the one with higher value is shown as winner. If two dice gets same value,  then it is a tie. This can be done any number of times by clicking the go button.
+
+#Drum kit:
+    This drum kit webpage contains seven large buttons .Each button produces different sound when clicked by mouse. We can also do the same by pressing the key corresponding to the alphabet displayed on the button.
+
+The BMI calculator app calculates the Body mass Index of a person.
+In the application the user has to select their gender by double clicking male or female button .
+And can specify their height in centimeters in the slider . 
+And weight in kilograms using the increase or decrease floating action button.
+The user will have to specify their age using the floating action button.
+Finally the user can click the get BMI button and it takes to the result page which will tell the BMI and if the user is underweight,normal,overweight or obese for their age.
