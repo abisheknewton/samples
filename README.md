@@ -13,7 +13,11 @@ The 5 webpages are
         The image generator contains two button Generate and Remove. When you click on the Generate button it will display the image you have linked. The image generated will be equivalent to the number of times you have clicked the Generate Button. Then using the remove button you can remove the image one by one.
         
 #color button generator:
-        The 
+        This color button generator can generate buttons of various colors we select. Here 4 options are given,
+                    1. to generate four buttons of 4 random colors,
+                    2. to generate 4 green buttons.
+                    3. to generate 4 red buttons.
+                    4. And to reset to the initial colors.
         
 #Rock Paper Scissor game:
         The Rock Paper Scissor Game has three image "Rock", "Paper" and "Scissor" image. Once you click on anyone of the image the computer will automatically generate an image from the three image choice. If you win a "You Win" message will be generated likewise if you lose a "You lose" message will be displayed and if you tie the "You tied" message will be displayed.      
