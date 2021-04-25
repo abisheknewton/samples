@@ -25,6 +25,6 @@ The 5 webpages are
 #Dice Game:
       This game has two dice for two players. When the game is started, those two dice changes its value to some random value between 1 and 6. And the one with higher value is shown as winner. If two dice gets same value,  then it is a tie. This can be done any number of times by clicking the go button.
 
-#Drum kit:
+#Drum kit music challenge:
     This drum kit webpage contains seven large buttons .Each button produces different sound when clicked by mouse. We can also do the same by pressing the key corresponding to the alphabet displayed on the button.
 
