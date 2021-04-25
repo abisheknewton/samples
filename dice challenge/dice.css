@@ -1,0 +1,16 @@
+body{
+    background-color: #b2bebb;
+}
+.container{
+    text-align: center;
+    margin-top: 3cm;
+}
+.dice{
+    display: inline-block;
+    text-align: center;
+    margin: 1cm;
+}
+button{
+    font-size: 2rem;
+    margin-left: 7.5in;
+}
